@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="462" viewBox="0 0 860 462" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">
+<style>
+.t{fill:#c9d1d9}.k{fill:#ffa657}.h{fill:#79c0ff;font-weight:700}.s{fill:#484f58}.b{fill:#d4b483}.p{fill:#3fb950}
+.l{opacity:0;animation:in .25s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+.type{animation:type 1s steps(8) forwards}
+@keyframes type{from{width:0}to{width:80px}}
+.cur{animation:blink 1s step-end infinite}
+@keyframes blink{50%{opacity:0}}
+</style>
+<rect width="860" height="462" rx="12" fill="#0d1117" stroke="#30363d"/>
+<circle cx="24" cy="22" r="6" fill="#ff5f57"/><circle cx="44" cy="22" r="6" fill="#febc2e"/><circle cx="64" cy="22" r="6" fill="#28c840"/>
+<text x="430" y="27" text-anchor="middle" class="s" font-size="12">damian@st4rboyek: ~</text>
+<clipPath id="c"><rect class="type" x="44" y="38" height="24" width="0"/></clipPath>
+<text x="28" y="54"><tspan class="p">$</tspan></text>
+<text x="44" y="54" class="t" clip-path="url(#c)">neofetch</text>
+<text x="28" y="98" class="b l" xml:space="preserve" style="animation-delay:1.10s">        /\         /\</text>
+<text x="28" y="119" class="b l" xml:space="preserve" style="animation-delay:1.15s">       /  \       /  \</text>
+<text x="28" y="140" class="b l" xml:space="preserve" style="animation-delay:1.20s">      |    |     |    |</text>
+<text x="28" y="161" class="b l" xml:space="preserve" style="animation-delay:1.25s">      |    |     |    |</text>
+<text x="28" y="182" class="b l" xml:space="preserve" style="animation-delay:1.30s">       \   |     |   /</text>
+<text x="28" y="203" class="b l" xml:space="preserve" style="animation-delay:1.35s">        \  |     |  /</text>
+<text x="28" y="224" class="b l" xml:space="preserve" style="animation-delay:1.40s">       .-&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;-.</text>
+<text x="28" y="245" class="b l" xml:space="preserve" style="animation-delay:1.45s">      /               \</text>
+<text x="28" y="266" class="b l" xml:space="preserve" style="animation-delay:1.50s">     |    O       O    |</text>
+<text x="28" y="287" class="b l" xml:space="preserve" style="animation-delay:1.55s">     |        v        |</text>
+<text x="28" y="308" class="b l" xml:space="preserve" style="animation-delay:1.60s">     |      \___/      |</text>
+<text x="28" y="329" class="b l" xml:space="preserve" style="animation-delay:1.65s">      \               /</text>
+<text x="28" y="350" class="b l" xml:space="preserve" style="animation-delay:1.70s">       &#x27;-.._______..-&#x27;</text>
+<text x="330" y="78" class="h l" style="animation-delay:1.40s">damian@st4rboyek</text>
+<text x="330" y="99" class="s l" style="animation-delay:1.49s">----------------</text>
+<text x="330" y="120" class="l" style="animation-delay:1.58s"><tspan class="k">OS</tspan><tspan class="t">: macOS, Linux on the servers</tspan></text>
+<text x="330" y="141" class="l" style="animation-delay:1.67s"><tspan class="k">Host</tspan><tspan class="t">: Poland</tspan></text>
+<text x="330" y="162" class="l" style="animation-delay:1.76s"><tspan class="k">Role</tspan><tspan class="t">: full-stack developer</tspan></text>
+<text x="330" y="183" class="l" style="animation-delay:1.85s"><tspan class="k">Focus</tspan><tspan class="t">: product, from schema to pixels</tspan></text>
+<text x="330" y="204" class="l" style="animation-delay:1.94s"><tspan class="k">Builds</tspan><tspan class="t">: web apps, real-time systems, APIs, desktop tools</tspan></text>
+<text x="330" y="225" class="l" style="animation-delay:2.03s"><tspan class="k">Langs</tspan><tspan class="t">: TypeScript</tspan></text>
+<text x="330" y="246" class="l" style="animation-delay:2.12s"><tspan class="k">Front</tspan><tspan class="t">: Next.js, React, Vue, Nuxt</tspan></text>
+<text x="330" y="267" class="l" style="animation-delay:2.21s"><tspan class="k">Back</tspan><tspan class="t">: Node.js, NestJS, Drizzle</tspan></text>
+<text x="330" y="288" class="l" style="animation-delay:2.30s"><tspan class="k">Infra</tspan><tspan class="t">: Postgres, Redis, Docker</tspan></text>
+<text x="330" y="309" class="l" style="animation-delay:2.39s"><tspan class="k">Ships</tspan><tspan class="t">: sshelfy, velosite</tspan></text>
+<text x="330" y="330" class="l" style="animation-delay:2.48s"><tspan class="k">Believes</tspan><tspan class="t">: boring tech, small diffs, fast pages</tspan></text>
+<text x="330" y="351" class="l" style="animation-delay:2.57s"><tspan class="k">Status</tspan><tspan class="t">: probably debugging something at 2am</tspan></text>
+<g class="l" style="animation-delay:2.75s"><rect x="330" y="379" width="26" height="18" fill="#484f58"/><rect x="356" y="379" width="26" height="18" fill="#ff7b72"/><rect x="382" y="379" width="26" height="18" fill="#3fb950"/><rect x="408" y="379" width="26" height="18" fill="#d29922"/><rect x="434" y="379" width="26" height="18" fill="#58a6ff"/><rect x="460" y="379" width="26" height="18" fill="#bc8cff"/><rect x="486" y="379" width="26" height="18" fill="#39c5cf"/><rect x="512" y="379" width="26" height="18" fill="#c9d1d9"/></g>
+<text x="28" y="420" class="l" style="animation-delay:2.94s"><tspan class="p">$</tspan> <tspan class="t cur">▋</tspan></text>
+</svg>
